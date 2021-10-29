@@ -1,0 +1,4 @@
+Compile Program by opening up all documents in basic text formatting and saving. Be sure not to accidentally save in a complex text format.
+Open up the terminal and CD into the folder that you unzipped. Then, type in whats in the parenthesis: "python3 PythonWebServer.py run". Now the server is running and you can goto your local hostname:1400/HelloWorld.html or use the same python command and replace the 'PythonWebServer' with 'client.py'.
+The output and the results when running the program include: The header of the packet in the terminal as well as the message saying it is ready to serve CSCI340 Students. Additionally, a webpage is made as discussed earlier that can be viewed through the steps in 3.
+Make sure to run the server code before attempting to run the client or visit the server online.
